@@ -1,0 +1,5 @@
+export * from './app-root/app-root.component'
+export * from './app-sidebar/app-sidebar.component'
+export * from './app-article/app-article.component'
+export * from './app-comment/app-comment.component'
+export * from './app-search/app-search.component'

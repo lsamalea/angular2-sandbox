@@ -1,0 +1,142 @@
+[
+  {
+    "name": "AppModule",
+    "file": "src/app/app.module.ts",
+    "providers": [],
+    "declarations": [
+      {
+        "name": "AppComponent"
+      }
+    ],
+    "imports": [
+      {
+        "name": "BrowserModule"
+      },
+      {
+        "name": "FormsModule"
+      },
+      {
+        "name": "HttpModule"
+      }
+    ],
+    "exports": [],
+    "bootstrap": [
+      {
+        "name": "AppComponent"
+      }
+    ],
+    "__raw": [
+      {
+        "pos": 252,
+        "end": 291,
+        "flags": 0,
+        "kind": 257,
+        "name": {
+          "pos": 252,
+          "end": 267,
+          "flags": 0,
+          "text": "declarations"
+        },
+        "initializer": {
+          "pos": 268,
+          "end": 291,
+          "flags": 0,
+          "kind": 175,
+          "multiLine": true,
+          "elements": [
+            {
+              "pos": 270,
+              "end": 287,
+              "flags": 0,
+              "text": "AppComponent"
+            }
+          ]
+        }
+      },
+      {
+        "pos": 292,
+        "end": 360,
+        "flags": 0,
+        "kind": 257,
+        "name": {
+          "pos": 292,
+          "end": 302,
+          "flags": 0,
+          "text": "imports"
+        },
+        "initializer": {
+          "pos": 303,
+          "end": 360,
+          "flags": 0,
+          "kind": 175,
+          "multiLine": true,
+          "elements": [
+            {
+              "pos": 305,
+              "end": 323,
+              "flags": 0,
+              "text": "BrowserModule"
+            },
+            {
+              "pos": 324,
+              "end": 340,
+              "flags": 0,
+              "text": "FormsModule"
+            },
+            {
+              "pos": 341,
+              "end": 356,
+              "flags": 0,
+              "text": "HttpModule"
+            }
+          ]
+        }
+      },
+      {
+        "pos": 361,
+        "end": 377,
+        "flags": 0,
+        "kind": 257,
+        "name": {
+          "pos": 361,
+          "end": 373,
+          "flags": 0,
+          "text": "providers"
+        },
+        "initializer": {
+          "pos": 374,
+          "end": 377,
+          "flags": 0,
+          "kind": 175,
+          "elements": []
+        }
+      },
+      {
+        "pos": 378,
+        "end": 406,
+        "flags": 0,
+        "kind": 257,
+        "name": {
+          "pos": 378,
+          "end": 390,
+          "flags": 0,
+          "text": "bootstrap"
+        },
+        "initializer": {
+          "pos": 391,
+          "end": 406,
+          "flags": 0,
+          "kind": 175,
+          "elements": [
+            {
+              "pos": 393,
+              "end": 405,
+              "flags": 0,
+              "text": "AppComponent"
+            }
+          ]
+        }
+      }
+    ]
+  }
+]

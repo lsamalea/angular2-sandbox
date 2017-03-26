@@ -1,0 +1,67 @@
+{
+  "sessions": [
+    {
+      "id": "ed0fc67a-24c7-413b-b997-c57616652e1b",
+      "tabLayout": {
+        "type": "stack",
+        "width": 100,
+        "height": 100,
+        "tabs": [
+          {
+            "id": "11a527b5-37b7-4018-a117-e6187ee1c1ed",
+            "relativeUrl": "file://./src/main.ts",
+            "additionalData": null
+          },
+          {
+            "id": "4065e1ea-248d-4ff7-b8f6-feb6b7da2603",
+            "relativeUrl": "file://./src/tsconfig.json",
+            "additionalData": null
+          },
+          {
+            "id": "504ba5cb-35bf-4361-bdcc-9d1618e31b45",
+            "relativeUrl": "file://./src/app/app.module.ts",
+            "additionalData": null
+          },
+          {
+            "id": "41a4be3e-91b8-46d7-b811-decc3e7c361f",
+            "relativeUrl": "file://./src/styles.css",
+            "additionalData": null
+          },
+          {
+            "id": "14965597-6da6-4a41-90da-4a0c6f8ec6af",
+            "relativeUrl": "documentation://./Documentation",
+            "additionalData": null
+          },
+          {
+            "id": "4c720ed5-5139-4af2-9ef7-99ae4e410578",
+            "relativeUrl": "file://./src/app/app.component.ts",
+            "additionalData": null
+          },
+          {
+            "id": "8ffb041f-9e2b-4f70-b7fe-4f248765d905",
+            "relativeUrl": "file://./node_modules/@angular/core/src/reflection/platform_reflection_capabilities.d.ts",
+            "additionalData": null
+          },
+          {
+            "id": "ea59b3b6-9276-4f8e-8472-a02dbfb2c42e",
+            "relativeUrl": "file://./src/polyfills.ts",
+            "additionalData": null
+          },
+          {
+            "id": "0fde2678-664c-4fcb-893f-43804658a82c",
+            "relativeUrl": "file://./node_modules/@angular/core/src/zone.d.ts",
+            "additionalData": null
+          }
+        ],
+        "subItems": [],
+        "activeItemIndex": 0
+      },
+      "lastUsed": 1487383486610,
+      "selectedTabId": "14965597-6da6-4a41-90da-4a0c6f8ec6af",
+      "errorsExpanded": false,
+      "fileTreeExpanded": true,
+      "mainPanelHeight": 100
+    }
+  ],
+  "relativePathToTsconfig": "./src/tsconfig.json"
+}
